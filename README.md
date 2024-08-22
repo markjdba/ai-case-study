@@ -92,7 +92,7 @@ Use of facial recognition technology to analyze faces and emotions, as well as t
 * Why are these technologies appropriate for your solution?
 Facial recognition, with analysis of emotions, can be used to deternine how customers are enjoying its tours, as well as analyze customer behavior in the gift shops. The tour and gift shop management can then make adjustments based on a better understanding of buying patterns and cutomer behavior. Disney, in their gift shops, is using AI to manage inventory and personalize recommendations, and Warner Bros. Discovery could also do this. By using AI, Warner Bros. Doscovery can better tailor its stories and cutomer experiences to its audience.
 
-* Addendum - Sources
+## Addendum - Sources
 
 https://www.union.ai/case-study/how-warner-bros-discovery-keeps-its-media-streams-flowing
 
