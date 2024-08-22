@@ -22,7 +22,7 @@ Th project came about because of the need to increase the revenue from the Max (
 
 * How is the company funded? How much funding have they received?
 
-Warner Bros. Discovery earns revenue from it's streaming service, Max, as well as from cable television and satellite operators, movies, tv shows, comic books, and branded merchandise. 
+Warner Bros. Discovery earns revenue from it's streaming service, Max, as well as from movies, TV shows and networks, comic books, and branded merchandise. 
 
 ## Business Activities
 
@@ -36,7 +36,7 @@ The Max streaming service has about 100 million active users.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Warner Bros. Discovery has acccess to some content, such as CNN and HBO programming, as well as an extensive film library owned by TCM, that is unique.
+Warner Bros. Discovery has access to some content, such as CNN and HBO programming, as well as an extensive film library, that is unique.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -54,7 +54,7 @@ Media
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-The cable television audience and revenue has been declining. Streaming services, such as Netflix, have become increasingly popular. AI is used for recommendation systems, to provide suggestions to customers about content that they would enjoy. AI is also used in movie and television prduction, as well as in theme parks.
+The cable television audience and revenue has been declining. Streaming services, such as Netflix, have become increasingly popular. AI is used for recommendation systems, to provide suggestions to customers about content that they would enjoy. AI is also used in movie and television production, as well as in theme parks.
 
 * What are the other major companies in this field?
 
@@ -69,7 +69,7 @@ Max is the 4th most popular streaming service. In addition, they are still "a le
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-Total number of users for its streaming platform. They have approximately 100 mllion users, making them the 4th largest streaming service. Profit and loss: Warner Bros. Discovery is making a smalll profit on streaming, but experiencing widening losses and just posted a a 9 billion dollar writedown.
+Total number of users for its streaming platform. They have approximately 100 million users, making them the 4th largest streaming service. Profit and loss: Warner Bros. Discovery is making a small profit on streaming, but experiencing widening losses and recently posted a 9 billion dollar write-down on its TV networks.
 
 * How is your company performing relative to competitors in the same field?
 
@@ -79,7 +79,7 @@ Other companies in the media field are also struggling. Warner Bros. Discovery s
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-Warner Bros. Discovery should look beyond the use of AI in streaming and use AI to enhance its studio tour business. Warner Bros. Discovery runs three "Warner Bros. Studio Tour " locations, in the UK, Burbank, and Tokyo. The use of AI in amusument parks is a strategy that Disney alreay uses, and this strategy could be extended to studio tours.
+Warner Bros. Discovery should look beyond the use of AI in streaming and use AI to enhance its studio tour business. Warner Bros. Discovery runs three "Warner Bros. Studio Tour " locations, in the UK, Burbank, and Tokyo. The use of AI in amusement parks is a strategy that Disney already uses, and this strategy could be extended to studio tours.
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -87,10 +87,10 @@ According to Forbes "AI is turning amusement parks into realms of personalized a
 
 * What technologies would this additional product or service utilize?
 
-Use of facial recognition technology to analyze faces and emotions, as well as the use iof AI in stoytelling. Warner Bros. Discovery could continue to use Flyte and Python in implemetn=ing this strategy.
+Use of facial recognition technology to analyze faces and emotions, as well as the use of AI in storytelling. Warner Bros. Discovery could continue to use Flyte and Python in implemetn=ing this strategy.
 
 * Why are these technologies appropriate for your solution?
-Facial recognition, with analysis of emotions, can be used to deternine how customers are enjoying its tours, as well as analyze customer behavior in the gift shops. The tour and gift shop management can then make adjustments based on a better understanding of buying patterns and cutomer behavior. Disney, in their gift shops, is using AI to manage inventory and personalize recommendations, and Warner Bros. Discovery could also do this. By using AI, Warner Bros. Doscovery can better tailor its stories and cutomer experiences to its audience.
+Facial recognition, with analysis of emotions, can be used to determine how customers are enjoying its tours, as well as analyze customer behavior in the gift shops. The tour and gift shop management can then make adjustments based on a better understanding of buying patterns and customer behavior. Disney, in their gift shops, is using AI to manage inventory and personalize recommendations, and Warner Bros. Discovery could also do this. By using AI, Warner Bros. Doscovery can better tailor its stories and customer experiences to its audience.
 
 ## Addendum - Sources
 
@@ -103,6 +103,8 @@ https://www.forbes.com/sites/danschawbel/2013/12/29/john-hendricks-how-he-built-
 https://www.wbd.com/
 
 https://www.hollywoodreporter.com/business/business-news/streaming-profit-report-netflix-disney-warners-paramount-nbcu-1235868631/
+
+https://www.nytimes.com/2024/08/07/business/warner-bros-discovery-sports-write-down.html
 
 https://www.forbes.com/sites/neilsahota/2024/04/30/the-magic-of-tomorrow-how-ai-is-transforming-amusement-parks/
 
