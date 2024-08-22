@@ -87,9 +87,10 @@ According to Forbes "AI is turning amusement parks into realms of personalized a
 
 * What technologies would this additional product or service utilize?
 
-Use of facial recognition technology to analyze faces and emotions, as well as the use of AI in storytelling. Warner Bros. Discovery could continue to use Flyte and Python in implemetn=ing this strategy.
+Use of facial recognition technology to analyze faces and emotions, as well as the use of AI in storytelling. Warner Bros. Discovery could continue to use Flyte and Python in implementing this strategy.
 
 * Why are these technologies appropriate for your solution?
+
 Facial recognition, with analysis of emotions, can be used to determine how customers are enjoying its tours, as well as analyze customer behavior in the gift shops. The tour and gift shop management can then make adjustments based on a better understanding of buying patterns and customer behavior. Disney, in their gift shops, is using AI to manage inventory and personalize recommendations, and Warner Bros. Discovery could also do this. By using AI, Warner Bros. Discovery can better tailor its stories and customer experiences to its audience.
 
 ## Addendum - Sources
