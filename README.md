@@ -1,6 +1,6 @@
 # ai-case-study
 
-# TITLE
+# Warner Bros. Discovery AI Strategy
 
 ## Overview and Origin
 
@@ -40,7 +40,11 @@ Warner Bros. Discovery has acccess to some content, such as CNN and HBO programm
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-WBD is using Flyte, XGBoost, and Python. According to Machine Learning Platform Engineer Frank Shen "Flyte for orchestration. Flyte’s Python support immediately closed gaps between local development and deployment, Shen said. “Now data scientists start developing locally on their machines not using notebook, but using pure Python and just adding the annotation provided by Flyte. It works everywhere".
+WBD is using Flyte, XGBoost, and Python. According to Machine Learning Platform Engineer Frank Shen:
+
+> "Flyte for orchestration. Flyte’s Python support immediately closed gaps between local development and deployment, Shen said. “Now data scientists start developing locally on their machines not using notebook, but using pure Python and just adding the annotation provided by Flyte. It works everywhere". 
+[Union](https://www.union.ai/case-study/how-warner-bros-discovery-keeps-its-media-streams-flowing)
+
 
 ## Landscape
 
@@ -50,11 +54,11 @@ Media
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-The cable television audience and revenuw has been declining. Streaming services, such as Netflix, have become increasingly popular.
+The cable television audience and revenue has been declining. Streaming services, such as Netflix, have become increasingly popular. AI is used for recommendation systems, to provide suggestions to customers about content that they would enjoy. AI is also used in movie and television prduction, as well as in theme parks.
 
 * What are the other major companies in this field?
 
-Disney and Netflix
+Disney, Netflix, Hulu, Amazon Prime Video, Apple TV
 
 ## Results
 
@@ -64,7 +68,7 @@ They are the 4th most popular streaming service. In addition, they are still "a 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-Total number of users for its streaming platform. They have approximately 100 mllion users, making them the 4th largest streaming service. Profit and loss: WBD is experiencing widening losses and just psoted a a 9 billion dollar writedown.
+Total number of users for its streaming platform. They have approximately 100 mllion users, making them the 4th largest streaming service. Profit and loss: WBD is making a smalll profit on streaming, but experiencing widening losses and just posted a a 9 billion dollar writedown.
 
 * How is your company performing relative to competitors in the same field?
 
@@ -74,7 +78,7 @@ Other companies in the media field are also struggling. WBD seem to be somewhat 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-WBD should use AI to enhance visits to it's theme parks. WBD runs too "Wizarding World of Harry Potter " theme parks, one in the UK and the other in Tokyo.
+WBD should look beyond the use of AI in streaming and use AI to enhance its studio tour business. WBD runs three "Warner Bros. Studio Tour " locations, in the UK, Burbank, and Tokyo. The use of AI in amusument parks is a strategy that Disney alreay uses, and this strategy could be extended to studio tours.
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -85,4 +89,25 @@ According to Forbes "AI is turning amusement parks into realms of personalized a
 Use of facial recognition technology to analyze faces and emotions, as well as the use iof AI in stoytelling. WBD could continue to use Flyte and Python in implemetn=ing this strategy.
 
 * Why are these technologies appropriate for your solution?
-Facial recoognition, with analysis of emotions, can be used to deternine how customers are enjoying the theme parks. The park can then make adjustments based on their findings. By using AI, WBD can better tailor its stoires to its audience.
+Facial recognition, with analysis of emotions, can be used to deternine how customers are enjoying its tours, as well as analyze customer behavior in the gift shops. The tour and gift shop management can then make adjustments based on a better understanding of buying patterns and cutomer behavior. Disney, in their gift shops, is using AI to manage inventory and personalize recommendations, and Warner Bros. Discovery could also do this. By using AI, Warner Bros. Doscovery can better tailor its stories and cutomer experiences to its audience.
+
+* Addendum - Sources
+
+https://www.union.ai/case-study/how-warner-bros-discovery-keeps-its-media-streams-flowing
+
+https://californiamuseum.org/inductee/warner-bros/#:~:text=Sons%20of%20Jewish%20Polish%20immigrants,theater%20in%20Pennsylvania%20in%201903
+
+https://www.forbes.com/sites/danschawbel/2013/12/29/john-hendricks-how-he-built-the-discovery-channel-from-scratch/
+
+https://www.wbd.com/
+
+https://www.hollywoodreporter.com/business/business-news/streaming-profit-report-netflix-disney-warners-paramount-nbcu-1235868631/
+
+https://www.forbes.com/sites/neilsahota/2024/04/30/the-magic-of-tomorrow-how-ai-is-transforming-amusement-parks/
+
+
+
+
+
+
+
